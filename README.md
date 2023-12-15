@@ -1,18 +1,52 @@
-Dashboard: Organizational Management Hub
-Dashboard is a robust MVC web application architected for optimal management of an organization's core functions. It stands as a central hub for overseeing departments, employees, user roles, and access controls, fortified by a secure authentication system.
+# Dashboard: Organizational Management Hub
 
-Features & Structures
-CRUD Operations: Intuitive interfaces for creating, reading, updating, and deleting (CRUD) information across all modules.
-3-Tier Architecture: Clean separation of concerns with a 3-tier software architecture ensures maintainability and scalability.
-Unit of Work Pattern: Maintains consistency across transactions and commits using the Unit of Work pattern.
-Advanced Security: Leverages Microsoft Identity for user authentication and authorization, with distinct roles for admins and general users.
-Data Integrity: Client and server-side validation to enforce data integrity.
-Efficient Mapping: Utilizes AutoMapper for object-to-object mapping, reducing boilerplate code.
-File Handling: Provides functionality to upload and manage files seamlessly.
+[//]: # (Introduction)
+**Dashboard** is a robust MVC web application architected for optimal management of an organization's core functions, providing a central hub for overseeing departments, employees, user roles, and access controls, fortified by a secure authentication system.
 
-Technologies
-Frontend :
-Html, Css, Bootstrap and jQuery.
+[//]: # (Key Features & Architecture)
+## Key Features & Architecture
+- **CRUD Operations:** Intuitive interfaces for creating, reading, updating, and deleting information.
+- **3-Tier Architecture:** Ensures system maintainability and scalability.
+- **Unit of Work & Repository Patterns:** Maintain consistency and integrity across transactions.
+- **Advanced Security:** Utilizes Microsoft Identity for authentication and authorization.
+- **Data Validation:** Enforces data integrity with client and server-side checks.
+- **AutoMapper:** Simplifies object-to-object mapping, reducing code redundancy.
+- **File Management:** Offers file upload and management capabilities.
 
-Backend :
-ASP.Net MVC Core, ASP.Net Identity, Linq, EF Core
+[//]: # (Technologies Used)
+## Technologies
+### Frontend
+- HTML, CSS, Bootstrap, jQuery
+### Backend
+- ASP.NET MVC Core, ASP.NET Identity, LINQ, EF Core
+
+[//]: # (Getting Started with Installation)
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+- [.NET Core SDK](https://dotnet.microsoft.com/download) installed on your machine
+- An SQL Server instance accessible for the application to connect to
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mostafabadrshaalan/Dashboard.git
+
+Setup
+1-Database Migration:
+To set up the database with the necessary tables, run the following command:
+```
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+```
+2-User Registration:
+When registering a new user account, ensure that the password meets the following criteria:
+
+At least one digit (0-9)
+At least one uppercase character (A-Z)
+At least one lowercase character (a-z)
+At least one non-alphanumeric character (!@#$%^&* etc.)
