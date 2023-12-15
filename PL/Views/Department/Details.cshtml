@@ -1,0 +1,56 @@
+﻿@model DepartmentViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-4">
+    <h1 class="display-4 text-center mb-4">Department Details</h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card border-0 rounded-lg shadow-lg">
+                <div class="card-body">
+                    <h5 class="card-title text-primary mb-4">Code</h5>
+                    <p class="card-text">@Model.Code</p>
+                </div>
+            </div>
+
+            <div class="card border-0 rounded-lg shadow-lg mt-3">
+                <div class="card-body">
+                    <h5 class="card-title text-success mb-4">Name</h5>
+                    <p class="card-text">@Model.Name</p>
+                </div>
+            </div>
+
+            <div class="card border-0 rounded-lg shadow-lg mt-3">
+                <div class="card-body">
+                    <h5 class="card-title text-info mb-4">Creation Date</h5>
+                    <p class="card-text">@Model.CreationDate</p>
+                </div>
+            </div>
+
+            <div class="mt-4 d-flex justify-content-between">
+                <a class="btn btn-success px-4" asp-action="Update" asp-route-id="@Model.Id">
+                    <i class="fas fa-edit"></i> Edit
+                </a>
+                <a class="btn btn-light btn-back" asp-action="Index">
+                    <i class="fas fa-arrow-left"></i> Back To Lists
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Custom style for the "Back To List" button */
+    .btn-back {
+        background-color: #6c757d; /* Bootstrap's secondary color */
+        color: #fff; /* White text */
+        border-color: #6c757d; /* Matching border color */
+    }
+
+        .btn-back:hover {
+            background-color: #495057; /* Darker color on hover */
+            border-color: #495057;
+        }
+</style>

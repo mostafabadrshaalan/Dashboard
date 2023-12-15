@@ -1,0 +1,48 @@
+﻿@model IEnumerable<IdentityRole>
+@{
+    ViewData["Title"] = "Role Management";
+}
+
+<style>
+    .searchclass {
+        display: flex;
+        justify-content: center;
+    }
+</style>
+
+<div class="container mt-4">
+    <h1 class="text-center mb-4">@ViewData["Title"]</h1>
+
+    <div class="text-right mb-3">
+        <a asp-action="Create" class="btn btn-primary">Create New Role</a>
+    </div>
+
+    @if (Model?.Any() == true)
+    {
+        <table class="table table-bordered table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th>@Html.DisplayNameFor(m => m.First().Id)</th>
+                    <th>@Html.DisplayNameFor(m => m.First().Name)</th>
+                    <th colspan="3">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(m => item.Id)</td>
+                        <td>@Html.DisplayFor(m => item.Name)</td>
+                        <partial name="_ButtonsPartialView" model="item.Id.ToString()" />
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-warning mt-5">
+            <h3>No Roles Found</h3>
+        </div>
+    }
+</div>

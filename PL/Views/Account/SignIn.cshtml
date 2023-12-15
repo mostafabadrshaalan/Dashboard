@@ -1,0 +1,54 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "SignIn";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<div class="main-agileinfo">
+    <div class="agileits-top">
+        <form asp-action="SignIn">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <input class="text email" type="email" asp-for="Email" placeholder="Email" required="" />
+
+            <input class="text" type="password" asp-for="Password" placeholder="Password" required="" />
+
+            <br />
+
+            <div class="wthree-text">
+                <label class="anim">
+                    <input type="checkbox" asp-for="RememberMe" class="checkbox" />
+                    <span>Remember Me</span>
+                </label>
+                <div class="clear"></div>
+            </div>
+            <input type="submit" value="SIGNIN" />
+        </form>
+        <div class="row mt-3">
+            <div class="col-12 text-center">
+                <p>Don't have an account? <a asp-action="SignUp">Register Now</a></p>
+                <a asp-action="ForgetPassword" asp-controller="Account" class="forget-password">Forget Password?</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .forget-password {
+        color: white;
+        text-decoration: none;
+        margin-top: 10px;
+        display: inline-block; /* Adjust display property */
+    }
+
+    .col-12 {
+        display: grid;
+        place-items: center;
+    }
+
+</style>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

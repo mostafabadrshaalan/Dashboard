@@ -1,0 +1,73 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "SignUp";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<div class="main-agileinfo">
+    <div class="agileits-top">
+        <form id="signup-form" asp-action="SignUp" method="post">
+            <div>
+                <input class="text email" type="email" asp-for="Email" placeholder="Email" required="" />
+                <span asp-validation-for="@Model.Email"></span>
+            </div>
+
+            <div>
+                <input class="text" type="password" id="Password" name="Password" placeholder="Password" required="" />
+                <span asp-validation-for="@Model.Password"></span>
+            </div>
+
+            <div>
+                <input class="text w3lpass" type="password" id="ConfirmPassword" name="ConfirmPassword" placeholder="Confirm Password" required="" />
+                <span asp-validation-for="@Model.ConfirmPassword"></span>
+            </div>
+
+            <div class="wthree-text">
+                <label class="anim">
+                    <input type="checkbox" asp-for="IsAgree" class="checkbox" required="" />
+                    <span>I Agree to the terms and conditions</span>
+                </label>
+                <div class="clear"></div>
+            </div>
+
+            <input type="submit" value="SIGNUP" />
+        </form>
+
+        <p>Have an account?<a asp-action="SignIn"> Login Now</a></p>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $.validator.addMethod("complexPassword", function (value, element) {
+                // Check for at least one non-alphanumeric character, one uppercase letter, one lowercase letter, and one digit.
+                return /^(?=.*[^\w\s])(?=.*[a-z])(?=.*[A-Z])(?=.*\d).*$/.test(value);
+            }, "Password must contain at least one non-alphanumeric character, one uppercase letter, one lowercase letter, and one digit.");
+
+            $("#signup-form").validate({
+                rules: {
+                    Password: {
+                        required: true,
+                        minlength: 4,
+                        complexPassword: true
+                    },
+                    ConfirmPassword: {
+                        equalTo: "#Password"
+                    }
+                },
+                messages: {
+                    Password: {
+                        required: "Please enter a password",
+                        minlength: "Password must be at least 4 characters",
+                        complexPassword: "Password must contain at least one non-alphanumeric character, one uppercase letter, one lowercase letter, and one digit."
+                    },
+                    ConfirmPassword: {
+                        equalTo: "Passwords do not match"
+                    }
+                }
+            });
+        });
+    </script>
+}
+
