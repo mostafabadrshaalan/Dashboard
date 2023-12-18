@@ -10,3 +10,16 @@ C:\Users\USER\Desktop\Revision\DAL\obj\Debug\net6.0\DAL.dll
 C:\Users\USER\Desktop\Revision\DAL\obj\Debug\net6.0\refint\DAL.dll
 C:\Users\USER\Desktop\Revision\DAL\obj\Debug\net6.0\DAL.pdb
 C:\Users\USER\Desktop\Revision\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\bin\Debug\net6.0\DAL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\DAL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\DAL\obj\Debug\net6.0\ref\DAL.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J2IvbbWIIIxkZvd422CaZuM/DhAsKDhNxj5Bc7gVSUhbWAvKg8ztP7fZVe9pnN1XH1TTt2ffN+6gC62jm+Ig3g==",
+  "dgSpecHash": "k1OF0l10y5muYgARajm63JYMxxwloRhflL+dw2+3aOV9SKxEvIV/M/Xftr5eEVT4byl1+sg8XtYtN8EZjGzEyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\Revision\\PL\\PL.csproj",
+  "projectFilePath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

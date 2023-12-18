@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\Revision\\PL\\PL.csproj": {}
+    "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\PL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\Revision\\BLL\\BLL.csproj": {
+    "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Revision\\BLL\\BLL.csproj",
+        "projectUniqueName": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Revision\\BLL\\BLL.csproj",
+        "projectPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Revision\\BLL\\obj\\",
+        "outputPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Desktop\\Revision\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\Revision\\DAL\\DAL.csproj"
+              "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\DAL.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\Revision\\DAL\\DAL.csproj": {
+    "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Revision\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Revision\\DAL\\DAL.csproj",
+        "projectPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Revision\\DAL\\obj\\",
+        "outputPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\Revision\\PL\\PL.csproj": {
+    "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Revision\\PL\\PL.csproj",
+        "projectUniqueName": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\PL.csproj",
         "projectName": "PL",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Revision\\PL\\PL.csproj",
+        "projectPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\PL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Revision\\PL\\obj\\",
+        "outputPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,8 +156,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Desktop\\Revision\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\Revision\\BLL\\BLL.csproj"
+              "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\BLL\\BLL.csproj"
               }
             }
           }

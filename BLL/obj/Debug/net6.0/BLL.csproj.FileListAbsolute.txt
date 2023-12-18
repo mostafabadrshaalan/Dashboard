@@ -13,3 +13,19 @@ C:\Users\USER\Desktop\Revision\BLL\obj\Debug\net6.0\BLL.dll
 C:\Users\USER\Desktop\Revision\BLL\obj\Debug\net6.0\refint\BLL.dll
 C:\Users\USER\Desktop\Revision\BLL\obj\Debug\net6.0\BLL.pdb
 C:\Users\USER\Desktop\Revision\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\bin\Debug\net6.0\BLL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\bin\Debug\net6.0\DAL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Me\Programming\C# Projects\Projects\MVC\Dashboard_APP\BLL\obj\Debug\net6.0\ref\BLL.dll

@@ -2086,11 +2086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Revision\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Revision\\DAL\\DAL.csproj",
+      "projectPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Revision\\DAL\\obj\\",
+      "outputPath": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

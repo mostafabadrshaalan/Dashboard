@@ -1,159 +1,163 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\css\\StyleSheet.css",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\css\\StyleSheet.css",
       "PackagePath": "staticwebassets\\css\\StyleSheet.css"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\css\\site.css",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\favicon.ico",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\files\\Images\\5638832e-fa90-4135-bf0a-b069545e9c8aTest2.png",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\files\\Images\\5638832e-fa90-4135-bf0a-b069545e9c8aTest2.png",
       "PackagePath": "staticwebassets\\files\\Images\\5638832e-fa90-4135-bf0a-b069545e9c8aTest2.png"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\files\\Images\\b97c2b33-abbe-4489-b055-e0a7dc0ee038347263619_579633791039081_7440333292579009561_n.jpg",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\files\\Images\\b97c2b33-abbe-4489-b055-e0a7dc0ee038347263619_579633791039081_7440333292579009561_n.jpg",
       "PackagePath": "staticwebassets\\files\\Images\\b97c2b33-abbe-4489-b055-e0a7dc0ee038347263619_579633791039081_7440333292579009561_n.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\js\\site.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\files\\Images\\dee859b2-a783-4d64-a2bc-02dc3fc6e530382829128_998864584653169_3889400976378128597_n.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\dee859b2-a783-4d64-a2bc-02dc3fc6e530382829128_998864584653169_3889400976378128597_n.jpg"
+    },
+    {
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\Desktop\\Revision\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Me\\Programming\\C# Projects\\Projects\\MVC\\Dashboard_APP\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

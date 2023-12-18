@@ -1,4 +1,5 @@
 ﻿using DAL.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -6,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace PL.Controllers
 {
+    
     public class UsersController : Controller
     {
         private readonly UserManager<ApplicationUser> userManager;
@@ -47,7 +49,9 @@ namespace PL.Controllers
         }
         #endregion
 
+
         #region Update
+        //[Authorize(Roles = "Admin")]
         public async Task<IActionResult> Update(string id)
         {
             if (id is null)
@@ -87,6 +91,7 @@ namespace PL.Controllers
         #endregion
 
         #region Delete
+        //[Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(string id)
         {
             if (id is null)
