@@ -67,7 +67,9 @@ namespace PL.Controllers
 
             return View(role);
         }
+        #endregion
 
+        #region Update
         public async Task<IActionResult> Update(string id)
         {
             if (id == null)
